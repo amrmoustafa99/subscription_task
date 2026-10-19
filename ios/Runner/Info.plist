@@ -45,5 +45,13 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>نحتاج الوصول للصور لإضافتها إلى الإعلان</string>
+	<key>NSCameraUsageDescription</key>
+	<string>نحتاج الكاميرا لتصوير العقار وإضافته إلى الإعلان</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>نحتاج الميكروفون لتسجيل الفيديو المرفق مع الإعلان</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>نحتاج حفظ الوسائط المرتبطة بالإعلان</string>
 </dict>
 </plist>

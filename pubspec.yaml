@@ -46,6 +46,8 @@ dependencies:
   # Icons
   cupertino_icons: ^1.0.6
   hugeicons:
+  image_picker: ^1.2.4
+  video_player: ^2.14.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
